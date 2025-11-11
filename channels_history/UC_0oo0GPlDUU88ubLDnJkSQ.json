@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_0oo0GPlDUU88ubLDnJkSQ",
+  "channel_title": "UNDERkg",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 808000,
+        "views_total": 557564433,
+        "videos_total": 2850
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 808000,
+        "subscribers_end": 808000,
+        "subscribers_growth": 0,
+        "views_start": 557564433,
+        "views_total": 557564433,
+        "views_growth": 0,
+        "videos_start": 2850,
+        "videos_total": 2850,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 808000,
+        "subscribers_end": 808000,
+        "subscribers_growth": 0,
+        "views_start": 557564433,
+        "views_total": 557564433,
+        "views_growth": 0,
+        "videos_start": 2850,
+        "videos_total": 2850,
+        "videos_added": 0
+      }
+    ]
+  }
+}

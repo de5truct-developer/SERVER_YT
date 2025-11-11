@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_B3a-vvI6DyFkXbLaf__oQ",
+  "channel_title": "Brain with Gyan",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 369000,
+        "views_total": 632396591,
+        "videos_total": 246
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 369000,
+        "subscribers_end": 369000,
+        "subscribers_growth": 0,
+        "views_start": 632396591,
+        "views_total": 632396591,
+        "views_growth": 0,
+        "videos_start": 246,
+        "videos_total": 246,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 369000,
+        "subscribers_end": 369000,
+        "subscribers_growth": 0,
+        "views_start": 632396591,
+        "views_total": 632396591,
+        "views_growth": 0,
+        "videos_start": 246,
+        "videos_total": 246,
+        "videos_added": 0
+      }
+    ]
+  }
+}

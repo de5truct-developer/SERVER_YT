@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_ape4qbV-kBBPERFsN9M1Q",
+  "channel_title": "Yan Dilan",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 3530000,
+        "views_total": 1315288151,
+        "videos_total": 311
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 3530000,
+        "subscribers_end": 3530000,
+        "subscribers_growth": 0,
+        "views_start": 1315288151,
+        "views_total": 1315288151,
+        "views_growth": 0,
+        "videos_start": 311,
+        "videos_total": 311,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 3530000,
+        "subscribers_end": 3530000,
+        "subscribers_growth": 0,
+        "views_start": 1315288151,
+        "views_total": 1315288151,
+        "views_growth": 0,
+        "videos_start": 311,
+        "videos_total": 311,
+        "videos_added": 0
+      }
+    ]
+  }
+}

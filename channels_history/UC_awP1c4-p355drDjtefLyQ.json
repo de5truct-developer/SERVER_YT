@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_awP1c4-p355drDjtefLyQ",
+  "channel_title": "Na Yoon Kwon - Topic",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 5320,
+        "views_total": 18137719,
+        "videos_total": 177
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 5320,
+        "subscribers_end": 5320,
+        "subscribers_growth": 0,
+        "views_start": 18137719,
+        "views_total": 18137719,
+        "views_growth": 0,
+        "videos_start": 177,
+        "videos_total": 177,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 5320,
+        "subscribers_end": 5320,
+        "subscribers_growth": 0,
+        "views_start": 18137719,
+        "views_total": 18137719,
+        "views_growth": 0,
+        "videos_start": 177,
+        "videos_total": 177,
+        "videos_added": 0
+      }
+    ]
+  }
+}

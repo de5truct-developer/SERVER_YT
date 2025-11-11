@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_dKRmFqxREZJ41H6UXvOlw",
+  "channel_title": "Gazda Paja",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 42100,
+        "views_total": 60708408,
+        "videos_total": 27
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 42100,
+        "subscribers_end": 42100,
+        "subscribers_growth": 0,
+        "views_start": 60708408,
+        "views_total": 60708408,
+        "views_growth": 0,
+        "videos_start": 27,
+        "videos_total": 27,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 42100,
+        "subscribers_end": 42100,
+        "subscribers_growth": 0,
+        "views_start": 60708408,
+        "views_total": 60708408,
+        "views_growth": 0,
+        "videos_start": 27,
+        "videos_total": 27,
+        "videos_added": 0
+      }
+    ]
+  }
+}

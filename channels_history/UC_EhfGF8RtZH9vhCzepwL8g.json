@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_EhfGF8RtZH9vhCzepwL8g",
+  "channel_title": "FolapondisVEVO",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 557,
+        "views_total": 17620474,
+        "videos_total": 15
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 557,
+        "subscribers_end": 557,
+        "subscribers_growth": 0,
+        "views_start": 17620474,
+        "views_total": 17620474,
+        "views_growth": 0,
+        "videos_start": 15,
+        "videos_total": 15,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 557,
+        "subscribers_end": 557,
+        "subscribers_growth": 0,
+        "views_start": 17620474,
+        "views_total": 17620474,
+        "views_growth": 0,
+        "videos_start": 15,
+        "videos_total": 15,
+        "videos_added": 0
+      }
+    ]
+  }
+}

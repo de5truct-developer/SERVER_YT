@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_6wjAb6Q6nU4Apy449AG6Q",
+  "channel_title": "مشاريع الغد",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 52300,
+        "views_total": 8404355,
+        "videos_total": 220
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 52300,
+        "subscribers_end": 52300,
+        "subscribers_growth": 0,
+        "views_start": 8404355,
+        "views_total": 8404355,
+        "views_growth": 0,
+        "videos_start": 220,
+        "videos_total": 220,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 52300,
+        "subscribers_end": 52300,
+        "subscribers_growth": 0,
+        "views_start": 8404355,
+        "views_total": 8404355,
+        "views_growth": 0,
+        "videos_start": 220,
+        "videos_total": 220,
+        "videos_added": 0
+      }
+    ]
+  }
+}

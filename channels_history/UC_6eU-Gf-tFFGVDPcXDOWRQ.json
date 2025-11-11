@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_6eU-Gf-tFFGVDPcXDOWRQ",
+  "channel_title": "NOÇÃO GAMEPLAY",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 18100,
+        "views_total": 16375878,
+        "videos_total": 1035
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 18100,
+        "subscribers_end": 18100,
+        "subscribers_growth": 0,
+        "views_start": 16375878,
+        "views_total": 16375878,
+        "views_growth": 0,
+        "videos_start": 1035,
+        "videos_total": 1035,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 18100,
+        "subscribers_end": 18100,
+        "subscribers_growth": 0,
+        "views_start": 16375878,
+        "views_total": 16375878,
+        "views_growth": 0,
+        "videos_start": 1035,
+        "videos_total": 1035,
+        "videos_added": 0
+      }
+    ]
+  }
+}

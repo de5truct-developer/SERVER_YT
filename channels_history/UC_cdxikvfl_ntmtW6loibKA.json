@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_cdxikvfl_ntmtW6loibKA",
+  "channel_title": "Jomy Production",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 30700000,
+        "views_total": 8100858716,
+        "videos_total": 485
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 30700000,
+        "subscribers_end": 30700000,
+        "subscribers_growth": 0,
+        "views_start": 8100858716,
+        "views_total": 8100858716,
+        "views_growth": 0,
+        "videos_start": 485,
+        "videos_total": 485,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 30700000,
+        "subscribers_end": 30700000,
+        "subscribers_growth": 0,
+        "views_start": 8100858716,
+        "views_total": 8100858716,
+        "views_growth": 0,
+        "videos_start": 485,
+        "videos_total": 485,
+        "videos_added": 0
+      }
+    ]
+  }
+}

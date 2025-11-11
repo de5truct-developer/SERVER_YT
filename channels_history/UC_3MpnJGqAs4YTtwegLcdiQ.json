@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_3MpnJGqAs4YTtwegLcdiQ",
+  "channel_title": "RaegoTV",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 272000,
+        "views_total": 233041296,
+        "videos_total": 819
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 272000,
+        "subscribers_end": 272000,
+        "subscribers_growth": 0,
+        "views_start": 233041296,
+        "views_total": 233041296,
+        "views_growth": 0,
+        "videos_start": 819,
+        "videos_total": 819,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 272000,
+        "subscribers_end": 272000,
+        "subscribers_growth": 0,
+        "views_start": 233041296,
+        "views_total": 233041296,
+        "views_growth": 0,
+        "videos_start": 819,
+        "videos_total": 819,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_7OzaRA-oogAle4_ILg7xQ",
+  "channel_title": "Somval - Topic",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 8470,
+        "views_total": 6046243,
+        "videos_total": 88
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 8470,
+        "subscribers_end": 8470,
+        "subscribers_growth": 0,
+        "views_start": 6046243,
+        "views_total": 6046243,
+        "views_growth": 0,
+        "videos_start": 88,
+        "videos_total": 88,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 8470,
+        "subscribers_end": 8470,
+        "subscribers_growth": 0,
+        "views_start": 6046243,
+        "views_total": 6046243,
+        "views_growth": 0,
+        "videos_start": 88,
+        "videos_total": 88,
+        "videos_added": 0
+      }
+    ]
+  }
+}

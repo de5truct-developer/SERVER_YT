@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_BECcrG4B1NJJQmErWrM_g",
+  "channel_title": "스타포츠",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 15000,
+        "views_total": 135379740,
+        "videos_total": 150
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 15000,
+        "subscribers_end": 15000,
+        "subscribers_growth": 0,
+        "views_start": 135379740,
+        "views_total": 135379740,
+        "views_growth": 0,
+        "videos_start": 150,
+        "videos_total": 150,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 15000,
+        "subscribers_end": 15000,
+        "subscribers_growth": 0,
+        "views_start": 135379740,
+        "views_total": 135379740,
+        "views_growth": 0,
+        "videos_start": 150,
+        "videos_total": 150,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_5WnggYxqW7VX21JYcG_5A",
+  "channel_title": "또세상",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 170000,
+        "views_total": 168713316,
+        "videos_total": 788
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 170000,
+        "subscribers_end": 170000,
+        "subscribers_growth": 0,
+        "views_start": 168713316,
+        "views_total": 168713316,
+        "views_growth": 0,
+        "videos_start": 788,
+        "videos_total": 788,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 170000,
+        "subscribers_end": 170000,
+        "subscribers_growth": 0,
+        "views_start": 168713316,
+        "views_total": 168713316,
+        "views_growth": 0,
+        "videos_start": 788,
+        "videos_total": 788,
+        "videos_added": 0
+      }
+    ]
+  }
+}

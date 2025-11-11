@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_eFEbuLaZcxGfYpyxaDSRw",
+  "channel_title": "sunita Thapa",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 116000,
+        "views_total": 373944224,
+        "videos_total": 222
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 116000,
+        "subscribers_end": 116000,
+        "subscribers_growth": 0,
+        "views_start": 373944224,
+        "views_total": 373944224,
+        "views_growth": 0,
+        "videos_start": 222,
+        "videos_total": 222,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 116000,
+        "subscribers_end": 116000,
+        "subscribers_growth": 0,
+        "views_start": 373944224,
+        "views_total": 373944224,
+        "views_growth": 0,
+        "videos_start": 222,
+        "videos_total": 222,
+        "videos_added": 0
+      }
+    ]
+  }
+}

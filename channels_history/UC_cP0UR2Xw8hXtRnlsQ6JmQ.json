@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_cP0UR2Xw8hXtRnlsQ6JmQ",
+  "channel_title": "قناة مريم و حسن ",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 52900,
+        "views_total": 24256288,
+        "videos_total": 1247
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 52900,
+        "subscribers_end": 52900,
+        "subscribers_growth": 0,
+        "views_start": 24256288,
+        "views_total": 24256288,
+        "views_growth": 0,
+        "videos_start": 1247,
+        "videos_total": 1247,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 52900,
+        "subscribers_end": 52900,
+        "subscribers_growth": 0,
+        "views_start": 24256288,
+        "views_total": 24256288,
+        "views_growth": 0,
+        "videos_start": 1247,
+        "videos_total": 1247,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_6BJtNyrms1ucnx8U4Ns6A",
+  "channel_title": "Grean Rhode",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 96000,
+        "views_total": 143738786,
+        "videos_total": 207
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 96000,
+        "subscribers_end": 96000,
+        "subscribers_growth": 0,
+        "views_start": 143738786,
+        "views_total": 143738786,
+        "views_growth": 0,
+        "videos_start": 207,
+        "videos_total": 207,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 96000,
+        "subscribers_end": 96000,
+        "subscribers_growth": 0,
+        "views_start": 143738786,
+        "views_total": 143738786,
+        "views_growth": 0,
+        "videos_start": 207,
+        "videos_total": 207,
+        "videos_added": 0
+      }
+    ]
+  }
+}

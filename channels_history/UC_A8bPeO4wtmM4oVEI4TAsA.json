@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_A8bPeO4wtmM4oVEI4TAsA",
+  "channel_title": "Máfia dos Shorts",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 1140000,
+        "views_total": 1417215957,
+        "videos_total": 718
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 1140000,
+        "subscribers_end": 1140000,
+        "subscribers_growth": 0,
+        "views_start": 1417215957,
+        "views_total": 1417215957,
+        "views_growth": 0,
+        "videos_start": 718,
+        "videos_total": 718,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 1140000,
+        "subscribers_end": 1140000,
+        "subscribers_growth": 0,
+        "views_start": 1417215957,
+        "views_total": 1417215957,
+        "views_growth": 0,
+        "videos_start": 718,
+        "videos_total": 718,
+        "videos_added": 0
+      }
+    ]
+  }
+}

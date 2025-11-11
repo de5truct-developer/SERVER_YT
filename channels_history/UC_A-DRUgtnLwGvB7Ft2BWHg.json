@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_A-DRUgtnLwGvB7Ft2BWHg",
+  "channel_title": "FUT90",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 72800,
+        "views_total": 46674384,
+        "videos_total": 126
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 72800,
+        "subscribers_end": 72800,
+        "subscribers_growth": 0,
+        "views_start": 46674384,
+        "views_total": 46674384,
+        "views_growth": 0,
+        "videos_start": 126,
+        "videos_total": 126,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 72800,
+        "subscribers_end": 72800,
+        "subscribers_growth": 0,
+        "views_start": 46674384,
+        "views_total": 46674384,
+        "views_growth": 0,
+        "videos_start": 126,
+        "videos_total": 126,
+        "videos_added": 0
+      }
+    ]
+  }
+}

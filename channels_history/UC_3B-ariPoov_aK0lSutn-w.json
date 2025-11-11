@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_3B-ariPoov_aK0lSutn-w",
+  "channel_title": "samiya sidra - سويسرا",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 176000,
+        "views_total": 77010151,
+        "videos_total": 1589
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 176000,
+        "subscribers_end": 176000,
+        "subscribers_growth": 0,
+        "views_start": 77010151,
+        "views_total": 77010151,
+        "views_growth": 0,
+        "videos_start": 1589,
+        "videos_total": 1589,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 176000,
+        "subscribers_end": 176000,
+        "subscribers_growth": 0,
+        "views_start": 77010151,
+        "views_total": 77010151,
+        "views_growth": 0,
+        "videos_start": 1589,
+        "videos_total": 1589,
+        "videos_added": 0
+      }
+    ]
+  }
+}

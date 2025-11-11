@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_08eBByB16ASTj3HrCd4lg",
+  "channel_title": "MARK BRANDEE",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 17600,
+        "views_total": 12941815,
+        "videos_total": 44
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 17600,
+        "subscribers_end": 17600,
+        "subscribers_growth": 0,
+        "views_start": 12941815,
+        "views_total": 12941815,
+        "views_growth": 0,
+        "videos_start": 44,
+        "videos_total": 44,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 17600,
+        "subscribers_end": 17600,
+        "subscribers_growth": 0,
+        "views_start": 12941815,
+        "views_total": 12941815,
+        "views_growth": 0,
+        "videos_start": 44,
+        "videos_total": 44,
+        "videos_added": 0
+      }
+    ]
+  }
+}

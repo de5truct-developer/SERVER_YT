@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_cE27XR3vVFMf4sYZVsj3A",
+  "channel_title": "Phyno - Topic",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 6720,
+        "views_total": 36102419,
+        "videos_total": 206
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 6720,
+        "subscribers_end": 6720,
+        "subscribers_growth": 0,
+        "views_start": 36102419,
+        "views_total": 36102419,
+        "views_growth": 0,
+        "videos_start": 206,
+        "videos_total": 206,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 6720,
+        "subscribers_end": 6720,
+        "subscribers_growth": 0,
+        "views_start": 36102419,
+        "views_total": 36102419,
+        "views_growth": 0,
+        "videos_start": 206,
+        "videos_total": 206,
+        "videos_added": 0
+      }
+    ]
+  }
+}

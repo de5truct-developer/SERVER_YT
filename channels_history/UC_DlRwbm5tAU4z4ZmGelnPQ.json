@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_DlRwbm5tAU4z4ZmGelnPQ",
+  "channel_title": "ФАКТОР. BY",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 691000,
+        "views_total": 430005034,
+        "videos_total": 2277
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 691000,
+        "subscribers_end": 691000,
+        "subscribers_growth": 0,
+        "views_start": 430005034,
+        "views_total": 430005034,
+        "views_growth": 0,
+        "videos_start": 2277,
+        "videos_total": 2277,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 691000,
+        "subscribers_end": 691000,
+        "subscribers_growth": 0,
+        "views_start": 430005034,
+        "views_total": 430005034,
+        "views_growth": 0,
+        "videos_start": 2277,
+        "videos_total": 2277,
+        "videos_added": 0
+      }
+    ]
+  }
+}

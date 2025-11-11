@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_e26fmgJ1egHzccRn6z5qw",
+  "channel_title": "Souen",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 1100000,
+        "views_total": 195275978,
+        "videos_total": 1038
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 1100000,
+        "subscribers_end": 1100000,
+        "subscribers_growth": 0,
+        "views_start": 195275978,
+        "views_total": 195275978,
+        "views_growth": 0,
+        "videos_start": 1038,
+        "videos_total": 1038,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 1100000,
+        "subscribers_end": 1100000,
+        "subscribers_growth": 0,
+        "views_start": 195275978,
+        "views_total": 195275978,
+        "views_growth": 0,
+        "videos_start": 1038,
+        "videos_total": 1038,
+        "videos_added": 0
+      }
+    ]
+  }
+}

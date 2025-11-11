@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_56q2JvIU3MBDVAlauGZTw",
+  "channel_title": "عائلة لورين💕💫 Lorin family",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 11400,
+        "views_total": 49246731,
+        "videos_total": 143
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 11400,
+        "subscribers_end": 11400,
+        "subscribers_growth": 0,
+        "views_start": 49246731,
+        "views_total": 49246731,
+        "views_growth": 0,
+        "videos_start": 143,
+        "videos_total": 143,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 11400,
+        "subscribers_end": 11400,
+        "subscribers_growth": 0,
+        "views_start": 49246731,
+        "views_total": 49246731,
+        "views_growth": 0,
+        "videos_start": 143,
+        "videos_total": 143,
+        "videos_added": 0
+      }
+    ]
+  }
+}

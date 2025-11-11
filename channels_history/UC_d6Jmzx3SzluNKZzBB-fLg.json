@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_d6Jmzx3SzluNKZzBB-fLg",
+  "channel_title": "M's Roro",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 859000,
+        "views_total": 180298565,
+        "videos_total": 407
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 859000,
+        "subscribers_end": 859000,
+        "subscribers_growth": 0,
+        "views_start": 180298565,
+        "views_total": 180298565,
+        "views_growth": 0,
+        "videos_start": 407,
+        "videos_total": 407,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 859000,
+        "subscribers_end": 859000,
+        "subscribers_growth": 0,
+        "views_start": 180298565,
+        "views_total": 180298565,
+        "views_growth": 0,
+        "videos_start": 407,
+        "videos_total": 407,
+        "videos_added": 0
+      }
+    ]
+  }
+}

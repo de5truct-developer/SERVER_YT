@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_9GZ-5Wz5rjkWg4HAkWg_g",
+  "channel_title": "SPIDER GAMER",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 4830000,
+        "views_total": 1841317595,
+        "videos_total": 1471
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 4830000,
+        "subscribers_end": 4830000,
+        "subscribers_growth": 0,
+        "views_start": 1841317595,
+        "views_total": 1841317595,
+        "views_growth": 0,
+        "videos_start": 1471,
+        "videos_total": 1471,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 4830000,
+        "subscribers_end": 4830000,
+        "subscribers_growth": 0,
+        "views_start": 1841317595,
+        "views_total": 1841317595,
+        "views_growth": 0,
+        "videos_start": 1471,
+        "videos_total": 1471,
+        "videos_added": 0
+      }
+    ]
+  }
+}

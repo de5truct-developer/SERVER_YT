@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_2irx_BQR7RsBKmUV9fePQ",
+  "channel_title": "ABN Telugu ",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 7410000,
+        "views_total": 7741569326,
+        "videos_total": 302994
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 7410000,
+        "subscribers_end": 7410000,
+        "subscribers_growth": 0,
+        "views_start": 7741569326,
+        "views_total": 7741569326,
+        "views_growth": 0,
+        "videos_start": 302994,
+        "videos_total": 302994,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 7410000,
+        "subscribers_end": 7410000,
+        "subscribers_growth": 0,
+        "views_start": 7741569326,
+        "views_total": 7741569326,
+        "views_growth": 0,
+        "videos_start": 302994,
+        "videos_total": 302994,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_AHZ9_G0_evlgN1BGbdIzA",
+  "channel_title": "AWA Wiffle Ball",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 406000,
+        "views_total": 593428390,
+        "videos_total": 1491
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 406000,
+        "subscribers_end": 406000,
+        "subscribers_growth": 0,
+        "views_start": 593428390,
+        "views_total": 593428390,
+        "views_growth": 0,
+        "videos_start": 1491,
+        "videos_total": 1491,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 406000,
+        "subscribers_end": 406000,
+        "subscribers_growth": 0,
+        "views_start": 593428390,
+        "views_total": 593428390,
+        "views_growth": 0,
+        "videos_start": 1491,
+        "videos_total": 1491,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_aeWYRjxsbnD83EOjmrWOg",
+  "channel_title": "AmazeAnimals",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 86600,
+        "views_total": 70011737,
+        "videos_total": 13
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 86600,
+        "subscribers_end": 86600,
+        "subscribers_growth": 0,
+        "views_start": 70011737,
+        "views_total": 70011737,
+        "views_growth": 0,
+        "videos_start": 13,
+        "videos_total": 13,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 86600,
+        "subscribers_end": 86600,
+        "subscribers_growth": 0,
+        "views_start": 70011737,
+        "views_total": 70011737,
+        "views_growth": 0,
+        "videos_start": 13,
+        "videos_total": 13,
+        "videos_added": 0
+      }
+    ]
+  }
+}

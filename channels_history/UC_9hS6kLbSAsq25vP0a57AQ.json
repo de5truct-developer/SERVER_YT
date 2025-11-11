@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_9hS6kLbSAsq25vP0a57AQ",
+  "channel_title": "Ysac",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 57000,
+        "views_total": 75500381,
+        "videos_total": 30
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 57000,
+        "subscribers_end": 57000,
+        "subscribers_growth": 0,
+        "views_start": 75500381,
+        "views_total": 75500381,
+        "views_growth": 0,
+        "videos_start": 30,
+        "videos_total": 30,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 57000,
+        "subscribers_end": 57000,
+        "subscribers_growth": 0,
+        "views_start": 75500381,
+        "views_total": 75500381,
+        "views_growth": 0,
+        "videos_start": 30,
+        "videos_total": 30,
+        "videos_added": 0
+      }
+    ]
+  }
+}

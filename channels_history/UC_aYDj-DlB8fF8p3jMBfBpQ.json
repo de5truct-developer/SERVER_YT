@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_aYDj-DlB8fF8p3jMBfBpQ",
+  "channel_title": "Andrea Zjacic",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 62500,
+        "views_total": 68299621,
+        "videos_total": 182
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 62500,
+        "subscribers_end": 62500,
+        "subscribers_growth": 0,
+        "views_start": 68299621,
+        "views_total": 68299621,
+        "views_growth": 0,
+        "videos_start": 182,
+        "videos_total": 182,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 62500,
+        "subscribers_end": 62500,
+        "subscribers_growth": 0,
+        "views_start": 68299621,
+        "views_total": 68299621,
+        "views_growth": 0,
+        "videos_start": 182,
+        "videos_total": 182,
+        "videos_added": 0
+      }
+    ]
+  }
+}

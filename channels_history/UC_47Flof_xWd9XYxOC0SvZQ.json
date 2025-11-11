@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_47Flof_xWd9XYxOC0SvZQ",
+  "channel_title": "Lorena Tauana ESP",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 130000,
+        "views_total": 10040773,
+        "videos_total": 10
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 130000,
+        "subscribers_end": 130000,
+        "subscribers_growth": 0,
+        "views_start": 10040773,
+        "views_total": 10040773,
+        "views_growth": 0,
+        "videos_start": 10,
+        "videos_total": 10,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 130000,
+        "subscribers_end": 130000,
+        "subscribers_growth": 0,
+        "views_start": 10040773,
+        "views_total": 10040773,
+        "views_growth": 0,
+        "videos_start": 10,
+        "videos_total": 10,
+        "videos_added": 0
+      }
+    ]
+  }
+}

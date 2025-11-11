@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_dBFL3YtQzWt2jbJtEohaQ",
+  "channel_title": "mr.explain",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 25100,
+        "views_total": 41488934,
+        "videos_total": 64
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 25100,
+        "subscribers_end": 25100,
+        "subscribers_growth": 0,
+        "views_start": 41488934,
+        "views_total": 41488934,
+        "views_growth": 0,
+        "videos_start": 64,
+        "videos_total": 64,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 25100,
+        "subscribers_end": 25100,
+        "subscribers_growth": 0,
+        "views_start": 41488934,
+        "views_total": 41488934,
+        "views_growth": 0,
+        "videos_start": 64,
+        "videos_total": 64,
+        "videos_added": 0
+      }
+    ]
+  }
+}

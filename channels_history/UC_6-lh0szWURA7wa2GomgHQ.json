@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_6-lh0szWURA7wa2GomgHQ",
+  "channel_title": "JACK FROMSOFT",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 82800,
+        "views_total": 18337793,
+        "videos_total": 642
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 82800,
+        "subscribers_end": 82800,
+        "subscribers_growth": 0,
+        "views_start": 18337793,
+        "views_total": 18337793,
+        "views_growth": 0,
+        "videos_start": 642,
+        "videos_total": 642,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 82800,
+        "subscribers_end": 82800,
+        "subscribers_growth": 0,
+        "views_start": 18337793,
+        "views_total": 18337793,
+        "views_growth": 0,
+        "videos_start": 642,
+        "videos_total": 642,
+        "videos_added": 0
+      }
+    ]
+  }
+}

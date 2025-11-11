@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_-4xljgwRJS6BjVNFZi37A",
+  "channel_title": "Noah Preston",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 15700,
+        "views_total": 28800369,
+        "videos_total": 102
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 15700,
+        "subscribers_end": 15700,
+        "subscribers_growth": 0,
+        "views_start": 28800369,
+        "views_total": 28800369,
+        "views_growth": 0,
+        "videos_start": 102,
+        "videos_total": 102,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 15700,
+        "subscribers_end": 15700,
+        "subscribers_growth": 0,
+        "views_start": 28800369,
+        "views_total": 28800369,
+        "views_growth": 0,
+        "videos_start": 102,
+        "videos_total": 102,
+        "videos_added": 0
+      }
+    ]
+  }
+}

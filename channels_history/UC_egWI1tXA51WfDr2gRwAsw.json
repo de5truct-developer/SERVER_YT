@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_egWI1tXA51WfDr2gRwAsw",
+  "channel_title": "Sondergaard",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 149000,
+        "views_total": 32265474,
+        "videos_total": 213
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 149000,
+        "subscribers_end": 149000,
+        "subscribers_growth": 0,
+        "views_start": 32265474,
+        "views_total": 32265474,
+        "views_growth": 0,
+        "videos_start": 213,
+        "videos_total": 213,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 149000,
+        "subscribers_end": 149000,
+        "subscribers_growth": 0,
+        "views_start": 32265474,
+        "views_total": 32265474,
+        "views_growth": 0,
+        "videos_start": 213,
+        "videos_total": 213,
+        "videos_added": 0
+      }
+    ]
+  }
+}

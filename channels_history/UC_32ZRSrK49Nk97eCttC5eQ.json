@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_32ZRSrK49Nk97eCttC5eQ",
+  "channel_title": "Mais do Wuant",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 42800,
+        "views_total": 1396770,
+        "videos_total": 52
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 42800,
+        "subscribers_end": 42800,
+        "subscribers_growth": 0,
+        "views_start": 1396770,
+        "views_total": 1396770,
+        "views_growth": 0,
+        "videos_start": 52,
+        "videos_total": 52,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 42800,
+        "subscribers_end": 42800,
+        "subscribers_growth": 0,
+        "views_start": 1396770,
+        "views_total": 1396770,
+        "views_growth": 0,
+        "videos_start": 52,
+        "videos_total": 52,
+        "videos_added": 0
+      }
+    ]
+  }
+}

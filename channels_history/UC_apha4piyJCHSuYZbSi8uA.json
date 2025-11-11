@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_apha4piyJCHSuYZbSi8uA",
+  "channel_title": "Joga Bonito BR",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 586000,
+        "views_total": 979378169,
+        "videos_total": 579
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 586000,
+        "subscribers_end": 586000,
+        "subscribers_growth": 0,
+        "views_start": 979378169,
+        "views_total": 979378169,
+        "views_growth": 0,
+        "videos_start": 579,
+        "videos_total": 579,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 586000,
+        "subscribers_end": 586000,
+        "subscribers_growth": 0,
+        "views_start": 979378169,
+        "views_total": 979378169,
+        "views_growth": 0,
+        "videos_start": 579,
+        "videos_total": 579,
+        "videos_added": 0
+      }
+    ]
+  }
+}

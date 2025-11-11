@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_5VeB6Er-Pi3XKPiVApMyw",
+  "channel_title": "Pimz",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 1140000,
+        "views_total": 340650555,
+        "videos_total": 98
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 1140000,
+        "subscribers_end": 1140000,
+        "subscribers_growth": 0,
+        "views_start": 340650555,
+        "views_total": 340650555,
+        "views_growth": 0,
+        "videos_start": 98,
+        "videos_total": 98,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 1140000,
+        "subscribers_end": 1140000,
+        "subscribers_growth": 0,
+        "views_start": 340650555,
+        "views_total": 340650555,
+        "views_growth": 0,
+        "videos_start": 98,
+        "videos_total": 98,
+        "videos_added": 0
+      }
+    ]
+  }
+}

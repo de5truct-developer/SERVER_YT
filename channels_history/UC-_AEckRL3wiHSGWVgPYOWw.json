@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC-_AEckRL3wiHSGWVgPYOWw",
+  "channel_title": "Fevzi Demircan",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 722000,
+        "views_total": 430937390,
+        "videos_total": 2393
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 722000,
+        "subscribers_end": 722000,
+        "subscribers_growth": 0,
+        "views_start": 430937390,
+        "views_total": 430937390,
+        "views_growth": 0,
+        "videos_start": 2393,
+        "videos_total": 2393,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 722000,
+        "subscribers_end": 722000,
+        "subscribers_growth": 0,
+        "views_start": 430937390,
+        "views_total": 430937390,
+        "views_growth": 0,
+        "videos_start": 2393,
+        "videos_total": 2393,
+        "videos_added": 0
+      }
+    ]
+  }
+}

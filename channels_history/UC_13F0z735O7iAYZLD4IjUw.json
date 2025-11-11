@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_13F0z735O7iAYZLD4IjUw",
+  "channel_title": "jdjckdksk",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 10300,
+        "views_total": 10351402,
+        "videos_total": 112
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 10300,
+        "subscribers_end": 10300,
+        "subscribers_growth": 0,
+        "views_start": 10351402,
+        "views_total": 10351402,
+        "views_growth": 0,
+        "videos_start": 112,
+        "videos_total": 112,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 10300,
+        "subscribers_end": 10300,
+        "subscribers_growth": 0,
+        "views_start": 10351402,
+        "views_total": 10351402,
+        "views_growth": 0,
+        "videos_start": 112,
+        "videos_total": 112,
+        "videos_added": 0
+      }
+    ]
+  }
+}

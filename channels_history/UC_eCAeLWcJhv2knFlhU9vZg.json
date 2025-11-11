@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_eCAeLWcJhv2knFlhU9vZg",
+  "channel_title": "Towi",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 702000,
+        "views_total": 82417067,
+        "videos_total": 79
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 702000,
+        "subscribers_end": 702000,
+        "subscribers_growth": 0,
+        "views_start": 82417067,
+        "views_total": 82417067,
+        "views_growth": 0,
+        "videos_start": 79,
+        "videos_total": 79,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 702000,
+        "subscribers_end": 702000,
+        "subscribers_growth": 0,
+        "views_start": 82417067,
+        "views_total": 82417067,
+        "views_growth": 0,
+        "videos_start": 79,
+        "videos_total": 79,
+        "videos_added": 0
+      }
+    ]
+  }
+}

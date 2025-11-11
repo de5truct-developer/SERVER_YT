@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_5CfWlK-0T0W97oTV0gk0w",
+  "channel_title": "世界のかわら版3",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 141000,
+        "views_total": 161568099,
+        "videos_total": 2097
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 141000,
+        "subscribers_end": 141000,
+        "subscribers_growth": 0,
+        "views_start": 161568099,
+        "views_total": 161568099,
+        "views_growth": 0,
+        "videos_start": 2097,
+        "videos_total": 2097,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 141000,
+        "subscribers_end": 141000,
+        "subscribers_growth": 0,
+        "views_start": 161568099,
+        "views_total": 161568099,
+        "views_growth": 0,
+        "videos_start": 2097,
+        "videos_total": 2097,
+        "videos_added": 0
+      }
+    ]
+  }
+}

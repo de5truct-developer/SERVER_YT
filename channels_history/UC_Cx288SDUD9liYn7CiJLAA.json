@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_Cx288SDUD9liYn7CiJLAA",
+  "channel_title": "NMIXX - Topic",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 13100,
+        "views_total": 633979412,
+        "videos_total": 66
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 13100,
+        "subscribers_end": 13100,
+        "subscribers_growth": 0,
+        "views_start": 633979412,
+        "views_total": 633979412,
+        "views_growth": 0,
+        "videos_start": 66,
+        "videos_total": 66,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 13100,
+        "subscribers_end": 13100,
+        "subscribers_growth": 0,
+        "views_start": 633979412,
+        "views_total": 633979412,
+        "views_growth": 0,
+        "videos_start": 66,
+        "videos_total": 66,
+        "videos_added": 0
+      }
+    ]
+  }
+}

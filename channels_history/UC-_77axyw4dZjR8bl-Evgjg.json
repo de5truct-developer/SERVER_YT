@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC-_77axyw4dZjR8bl-Evgjg",
+  "channel_title": "Study Centre Bundi ( राजनीति विज्ञान )",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 299000,
+        "views_total": 345498349,
+        "videos_total": 508
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 299000,
+        "subscribers_end": 299000,
+        "subscribers_growth": 0,
+        "views_start": 345498349,
+        "views_total": 345498349,
+        "views_growth": 0,
+        "videos_start": 508,
+        "videos_total": 508,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 299000,
+        "subscribers_end": 299000,
+        "subscribers_growth": 0,
+        "views_start": 345498349,
+        "views_total": 345498349,
+        "views_growth": 0,
+        "videos_start": 508,
+        "videos_total": 508,
+        "videos_added": 0
+      }
+    ]
+  }
+}

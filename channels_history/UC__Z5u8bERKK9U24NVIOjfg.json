@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC__Z5u8bERKK9U24NVIOjfg",
+  "channel_title": "DedinoUnuče",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 60400,
+        "views_total": 32444233,
+        "videos_total": 957
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 60400,
+        "subscribers_end": 60400,
+        "subscribers_growth": 0,
+        "views_start": 32444233,
+        "views_total": 32444233,
+        "views_growth": 0,
+        "videos_start": 957,
+        "videos_total": 957,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 60400,
+        "subscribers_end": 60400,
+        "subscribers_growth": 0,
+        "views_start": 32444233,
+        "views_total": 32444233,
+        "views_growth": 0,
+        "videos_start": 957,
+        "videos_total": 957,
+        "videos_added": 0
+      }
+    ]
+  }
+}

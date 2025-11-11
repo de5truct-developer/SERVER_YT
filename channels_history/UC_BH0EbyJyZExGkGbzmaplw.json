@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_BH0EbyJyZExGkGbzmaplw",
+  "channel_title": "Himal Gharti Magar",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 15500,
+        "views_total": 2184652,
+        "videos_total": 14
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 15500,
+        "subscribers_end": 15500,
+        "subscribers_growth": 0,
+        "views_start": 2184652,
+        "views_total": 2184652,
+        "views_growth": 0,
+        "videos_start": 14,
+        "videos_total": 14,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 15500,
+        "subscribers_end": 15500,
+        "subscribers_growth": 0,
+        "views_start": 2184652,
+        "views_total": 2184652,
+        "views_growth": 0,
+        "videos_start": 14,
+        "videos_total": 14,
+        "videos_added": 0
+      }
+    ]
+  }
+}

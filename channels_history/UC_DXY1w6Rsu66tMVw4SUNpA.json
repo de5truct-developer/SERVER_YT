@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_DXY1w6Rsu66tMVw4SUNpA",
+  "channel_title": "haoyun130",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 13000,
+        "views_total": 15875113,
+        "videos_total": 219
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 13000,
+        "subscribers_end": 13000,
+        "subscribers_growth": 0,
+        "views_start": 15875113,
+        "views_total": 15875113,
+        "views_growth": 0,
+        "videos_start": 219,
+        "videos_total": 219,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 13000,
+        "subscribers_end": 13000,
+        "subscribers_growth": 0,
+        "views_start": 15875113,
+        "views_total": 15875113,
+        "views_growth": 0,
+        "videos_start": 219,
+        "videos_total": 219,
+        "videos_added": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "channel_id": "UC_aFWc0fc6HoXnE6dgYyM9g",
+  "channel_title": "AurEditro",
+  "history": {
+    "daily": [
+      {
+        "date": "2025-11-10",
+        "subscribers": 143000,
+        "views_total": 336433440,
+        "videos_total": 21
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "subscribers_start": 143000,
+        "subscribers_end": 143000,
+        "subscribers_growth": 0,
+        "views_start": 336433440,
+        "views_total": 336433440,
+        "views_growth": 0,
+        "videos_start": 21,
+        "videos_total": 21,
+        "videos_added": 0
+      }
+    ],
+    "quarterly": [
+      {
+        "quarter": "2025-Q4",
+        "subscribers_start": 143000,
+        "subscribers_end": 143000,
+        "subscribers_growth": 0,
+        "views_start": 336433440,
+        "views_total": 336433440,
+        "views_growth": 0,
+        "videos_start": 21,
+        "videos_total": 21,
+        "videos_added": 0
+      }
+    ]
+  }
+}
